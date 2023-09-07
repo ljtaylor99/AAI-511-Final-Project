@@ -1,5 +1,5 @@
 # AAI-511-Final-Project
-This repository contains the code and report for the collaborative final project for USD course AAI 511: Neural Networks and Deep Learning. 
+This repository contains the code and report for the collaborative final project for the University of San Diego course AAI 511: Neural Networks and Deep Learning. 
 
 **Project Abstract:**
 
